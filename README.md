@@ -8,7 +8,7 @@ This repository contains a comprehensive **Information Systems Analysis and Desi
 * **Domain:** Retail, Supply Chain, E-commerce
 
 ## 📂 Full Documentation
-> 📄 **[Read the Full Analysis PDF](./2022064.pdf)**
+> 📄 **[Read the Full Analysis PDF](./sports_retail_system_analysis.pdf)**
 
 ## 🚀 Key Deliverables & Analysis
 
