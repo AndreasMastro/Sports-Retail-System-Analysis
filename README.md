@@ -18,7 +18,7 @@ This repository contains a comprehensive **Information Systems Analysis and Desi
 * **Integration Analysis:** Evaluated system interfaces and identified gaps in data exchange between Finance, HR, and Supply Chain modules.
 
 
-![AS-IS Architecture](./images/AS-IS_Architecture.png)
+[AS-IS Architecture](./images/AS-IS_Architecture.png)
 
 ### 2. Process Modeling (Data Flow Diagrams)
 Developed detailed **Data Flow Diagrams (DFDs)** (Levels 0-2) to map critical business processes]:
@@ -45,4 +45,4 @@ Proposed a strategic roadmap for **Digital Transformation**, introducing modern 
 * **Systems Concepts:** ERP, CRM, WMS, SaaS, Cloud Computing.
 
 ---
-*Created by Andreas Mastrogiannopoulos - Harokopio University*
+*Created by Andreas Mastrogiannopoulos - Harokopio University of Athens*
