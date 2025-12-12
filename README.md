@@ -17,16 +17,13 @@ This repository contains a comprehensive **Information Systems Analysis and Desi
 * **Core Systems:** ERP (Central), CRM (Customer Service), WMS (Warehouse), MRP (Production).
 * **Integration Analysis:** Evaluated system interfaces and identified gaps in data exchange between Finance, HR, and Supply Chain modules.
 
-*(Add screenshot from PDF page 12)*
-![AS-IS Architecture](./images/asis-landscape.png)
+
+![AS-IS Architecture](./images/AS-IS_Architecture.png)
 
 ### 2. Process Modeling (Data Flow Diagrams)
 Developed detailed **Data Flow Diagrams (DFDs)** (Levels 0-2) to map critical business processes]:
 * **Inventory Management:** Analyzed the "Product Receipt & Quality Control" process, mapping data flows between Warehouse Managers, Suppliers, and the ERP/WMS systems.
 * **Customer Service:** Modeled the new "Customer Support" process flow, integrating Mobile App requests and automated responses.
-
-*(Add screenshot from PDF page 13 or 30)*
-![DFD Diagram](./images/dfd-level0.png)
 
 ### 3. Digital Transformation Strategy (TO-BE)
 Proposed a strategic roadmap for **Digital Transformation**, introducing modern technologies hosted on **Cloud Architecture**:
