@@ -3,8 +3,8 @@
 ## 📌 Project Overview
 This repository contains a comprehensive **Information Systems Analysis and Design** study for a leading Sports Retail Company. The project focuses on modeling the **Business Systems Landscape**, analyzing critical operational processes, and proposing a **Digital Transformation Strategy** to enhance competitiveness and operational efficiency.
 
-* [cite_start]**Academic Context:** University Assignment (Team Project) [cite: 32]
-* [cite_start]**Role:** Systems Analyst [cite: 32]
+* **Academic Context:** University Assignment (Team Project) 
+* **Role:** Systems Analyst 
 * **Domain:** Retail, Supply Chain, E-commerce
 
 ## 📂 Full Documentation
